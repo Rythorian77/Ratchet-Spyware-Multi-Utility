@@ -1,0 +1,12 @@
+C:\Users\justin.ross\source\repos\Ratchet\Ratchet\bin\Debug\Ratchet.exe.config
+C:\Users\justin.ross\source\repos\Ratchet\Ratchet\bin\Debug\Ratchet.exe
+C:\Users\justin.ross\source\repos\Ratchet\Ratchet\bin\Debug\Ratchet.pdb
+C:\Users\justin.ross\source\repos\Ratchet\Ratchet\bin\Debug\Ratchet.xml
+C:\Users\justin.ross\source\repos\Ratchet\Ratchet\obj\Debug\Ratchet.vbproj.AssemblyReference.cache
+C:\Users\justin.ross\source\repos\Ratchet\Ratchet\obj\Debug\Ratchet.Form1.resources
+C:\Users\justin.ross\source\repos\Ratchet\Ratchet\obj\Debug\Ratchet.Resources.resources
+C:\Users\justin.ross\source\repos\Ratchet\Ratchet\obj\Debug\Ratchet.vbproj.GenerateResource.cache
+C:\Users\justin.ross\source\repos\Ratchet\Ratchet\obj\Debug\Ratchet.vbproj.CoreCompileInputs.cache
+C:\Users\justin.ross\source\repos\Ratchet\Ratchet\obj\Debug\Ratchet.exe
+C:\Users\justin.ross\source\repos\Ratchet\Ratchet\obj\Debug\Ratchet.xml
+C:\Users\justin.ross\source\repos\Ratchet\Ratchet\obj\Debug\Ratchet.pdb
